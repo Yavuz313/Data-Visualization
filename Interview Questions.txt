@@ -1,0 +1,12 @@
+Interview Questions
+
+-Which library would you prefer for plotting in Python language: Seaborn or Matplotlib?
+
+Matplotlib is the python library used for plotting but it needs lot of fine-tuning to ensure that the plots look shiny. Seaborn helps data scientists create statistically and aesthetically appealing meaningful plots. The answer to this question varies based on the requirements for plotting data.
+
+
+
+
+-Is it possible to plot histogram in Pandas without calling Matplotlib?
+
+Yes you can use Pandas Built-in capabilities that are actually built of Matplotlib, but allow you to call data visualization commands directly via Pandas without calling Matplotlib.
